@@ -4,10 +4,8 @@
   <img width='50' height='30' src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp">
   
 </p>
-<iframe src="https://prodevs.xyz"></iframe>
 
 - <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20">&nbsp;&nbsp;My projects are avaliable [here](https://github.com/4nat)
-
 
 - <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="20" height="20">&nbsp;&nbsp;Join my [discord server](https://discord.com/invite/hgnsJVdBEn) to talk about anything!
 
