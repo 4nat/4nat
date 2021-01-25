@@ -18,5 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nat&show_icons=true&hide_border=true&theme=tokyonight" />
 <br>
 
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/HarunMISTIK)](https://www.youtube.com/HarunMISTIK)
+<center>
+  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/HarunMISTIK)](https://www.youtube.com/HarunMISTIK)
 ![Views](https://views.whatilearened.today/views/github/4nat/ismlhbb.svg?cache=remove)
+  </center>
