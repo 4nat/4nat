@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻Hi there, I'm 4NaT 👋</h1>
+<h1 align="center">👨‍💻Hi, I'm 4NaT </h1>
 
 <p align="center">
   <img width='50' height='30' src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp">
@@ -18,6 +18,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nat&show_icons=true&hide_border=true&theme=tokyonight" />
 <br>
 
-
-  <center [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/HarunMISTIK)](https://www.youtube.com/HarunMISTIK)
-![Views](https://views.whatilearened.today/views/github/4nat/ismlhbb.svg?cache=remove)/>
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/HarunMISTIK)](https://www.youtube.com/HarunMISTIK)
+![Views](https://views.whatilearened.today/views/github/4nat/ismlhbb.svg?cache=remove)
